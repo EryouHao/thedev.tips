@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://thedev.tips</id>
+    <title>TheDev.Tips</title>
+    <updated>2020-03-17T14:06:39.108Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://thedev.tips"/>
+    <link rel="self" href="https://thedev.tips/atom.xml"/>
+    <subtitle>Talk is cheap, show me the code</subtitle>
+    <logo>https://thedev.tips/images/avatar.png</logo>
+    <icon>https://thedev.tips/favicon.ico</icon>
+    <rights>All rights reserved 2020, TheDev.Tips</rights>
+    <entry>
+        <title type="html"><![CDATA[Using Redux with React: Complete Tutorial with Real-World Examples (Plain Redux and Redux Toolkit)]]></title>
+        <id>https://thedev.tips/post/using-redux-with-react-complete-tutorial-with-real-world-examples-plain-redux-and-redux-toolkit/</id>
+        <link href="https://thedev.tips/post/using-redux-with-react-complete-tutorial-with-real-world-examples-plain-redux-and-redux-toolkit/">
+        </link>
+        <updated>2020-03-17T13:51:20.000Z</updated>
+        <content type="html"><![CDATA[<p>一篇非常清晰易懂的 React Redux 教程，推荐阅读。</p>
+<p><a href="https://www.taniarascia.com/redux-react-guide/">Using Redux with React: Complete Tutorial with Real-World Examples (Plain Redux and Redux Toolkit)</a></p>
+]]></content>
+    </entry>
+</feed>
